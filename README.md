@@ -1,5 +1,5 @@
 # PIC18-bluetooth-car
-Assembly code written for PIC18F458 for bluetooth controlled car
+Assembly code written for PIC18F4580 for bluetooth controlled car
 
 Chassis was interfaced with H-bridges and bluetooth module
 
